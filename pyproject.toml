@@ -1,0 +1,17 @@
+[project]
+name = "prompt-generator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain-community>=0.3.14",
+    "langchain-core>=0.3.30",
+    "langchain-ollama>=0.2.2",
+    "litellm>=1.59.0",
+    "pydantic>=2.10.5",
+    "streamlit>=1.41.1",
+]
+authors = [
+    { name = "navicstein" }
+]
