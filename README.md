@@ -12,6 +12,10 @@ AI Sales Prompt Creator is a Streamlit application designed to generate personal
 - **Local Model Support**: Works out of the box with local models like Ollama for offline AI prompt generation.
 - **Powered by LangChain**: Leverages the LangChain framework for advanced prompt generation capabilities.
 
+## Demo
+
+Check out the live demo: [AI Sales Prompt Creator Demo](https://steinathan-ai-sales-prompt-creator-main-l6nnsn.streamlit.app/)
+
 ## Installation
 
 To run this app locally, follow these steps:
